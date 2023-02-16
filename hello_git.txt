@@ -1,3 +1,4 @@
 Hello codestates.
 Git is good.
 And It is clone.
+Staging area 올린 상태에서 파일을 또 수정해봄
