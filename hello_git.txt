@@ -1,2 +1,3 @@
 Hello codestates.
 Git is good.
+And It is clone.
